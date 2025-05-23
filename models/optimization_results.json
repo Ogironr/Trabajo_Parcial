@@ -1,0 +1,15 @@
+{
+    "best_params": {
+        "n_layers": 4,
+        "layer_size": 87,
+        "dropout": 0.3787812066262256,
+        "learning_rate": 0.0014900394475071195,
+        "weight_decay": 0.0003317888121957921,
+        "batch_size": 16,
+        "focal_weight": 0.8452017492349672,
+        "dice_weight": 0.33916914861869585,
+        "focal_gamma": 3.0390521362446785,
+        "focal_alpha": 0.3124150832616919
+    },
+    "best_value": 0.5416666666666666
+}

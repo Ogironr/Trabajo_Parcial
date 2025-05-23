@@ -1,0 +1,10 @@
+{
+    "total_casos": 600,
+    "casos_positivos": 153,
+    "casos_negativos": 447,
+    "dimensiones_entrada": [
+        600,
+        114
+    ],
+    "umbral_prediccion": 0.5
+}
